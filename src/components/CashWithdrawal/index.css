@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.app-container {
+  padding: 10px;
+  display: flex;
+}
+.bg-container {
+  background-color: #150b3e;
+  margin: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.profile {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  border-radius: 50%;
+  background-color: #c7d2fe;
+  color: #585076;
+  padding: 1px;
+}
+.heading {
+  color: #7c3aed;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.balance {
+  display: flex;
+  flex-direction: row;
+}
+.heading1 {
+  color: #585076;
+  font-size: 20px;
+}
+.amount {
+  display: flex;
+  flex-direction: column;
+}
+.heading2 {
+  color: white;
+  font-size: 20px;
+}
+.paragraph {
+  color: #585076;
+  font-size: 12px;
+}
